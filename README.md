@@ -2,7 +2,7 @@
 **Watermark Sync With Your Connecting - FiveM**
 
 Watermark System Sync With Your Connecting, Text Will Change Color If Your Ping High To Orange Or Red Color, You Can Change Configuration Ping In Watermark.lua
-* Basic From [mb_watermarkPing](https://github.com/jetpnix/mb_watermarkPing) & [Simple Watermark](https://forum.cfx.re/t/release-simple-watermark/7140)
+* Basic From : [mb_watermarkPing](https://github.com/jetpnix/mb_watermarkPing) & [Simple Watermark](https://forum.cfx.re/t/release-simple-watermark/7140)
 
 
 # Preview :
